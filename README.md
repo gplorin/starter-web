@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 So deploy already!
 
 ## How To Contribute
+
+And contribute $500 just for fun.
