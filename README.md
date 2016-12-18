@@ -15,3 +15,8 @@ So deploy already!
 ## How To Contribute
 
 And contribute $500 just for fun.
+
+
+### Copyright
+
+2016 Git.Training
