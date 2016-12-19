@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gordon Plorin	gplorin@mnmicro.net
 
 # THANKS
 
