@@ -14,8 +14,8 @@ So deploy already!
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Requests for review.
 And contribute $500 just for fun.
-
 
 ### Copyright
 
